@@ -18,7 +18,7 @@ A local-first workspace for artists: a reference board, a drawing canvas and a
 </div>
 
 <div align="center">
-  <img src="assets/tailref-studio-reference-board-demo.gif" width="100%" alt="TailRef Studio reference board with layers, palette cards, a Pose3D viewport and local .tail projects" />
+  <img src="assets/tailref-studio-reference-board-demo.gif" width="100%" alt="TailRef Studio feature summary: infinite reference board, ink engine, Pose3D, live capture, palette extraction and a non-destructive FX stack" />
 </div>
 
 - **Reference board** — an infinite canvas for collecting, arranging, annotating and colour-grading references.
