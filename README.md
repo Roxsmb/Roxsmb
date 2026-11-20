@@ -8,17 +8,27 @@
 
 ## TailRef Studio
 
-A local-first reference board for artists: infinite canvas, a drawing layer, a **Pose3D** viewport and portable `.tail` board files. Windows x64, v1.4.0 — **Electron**, **TypeScript**, **three.js**, **Canvas 2D**.
+A local-first workspace for artists: a reference board, a drawing canvas and a
+**Pose3D** viewport in one window. Windows 10/11 x64, v1.4.1 — **Electron**,
+**JavaScript**, **three.js**, **Canvas 2D**.
 
 <div align="center">
-  <img src="assets/tailref-studio-reference-board-demo.gif" width="100%" alt="TailRef Studio reference board with layers, mirroring, a Pose3D viewport and local .tail board files" />
+  <a href="https://github.com/Roxsmb/tailref/releases/latest"><img src="https://img.shields.io/badge/Download-Windows%2010%20%7C%2011-2F6FB0?style=for-the-badge&logo=windows11&logoColor=white" alt="Download TailRef Studio for Windows 10 and 11" /></a>
+  <a href="https://github.com/Roxsmb/tailref"><img src="https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="TailRef Studio source and documentation on GitHub" /></a>
 </div>
 
-- **Board + drawing layer** — stack, lock and mirror references and strokes.
-- **Pose3D** — a 3D pose reference sitting beside the board.
-- **Local-first** — portable `.exe`, no installer, no account; boards stay on your machine.
+<div align="center">
+  <img src="assets/tailref-studio-reference-board-demo.gif" width="100%" alt="TailRef Studio reference board with layers, palette cards, a Pose3D viewport and local .tail projects" />
+</div>
 
-Want a walkthrough or a build? **[Message me on ArtStation](https://www.artstation.com/emremeliknameli)**.
+- **Reference board** — an infinite canvas for collecting, arranging, annotating and colour-grading references.
+- **Drawing workspace** — layers, masks, `.abr` brushes and a non-destructive FX stack.
+- **Pose3D** — pose a mannequin or import your own FBX/GLTF/OBJ model, set the camera and lighting, then capture the shot straight to the board.
+- **Local-first** — portable `.exe` or installer, no account, no cloud, no telemetry. Free for noncommercial use under the PolyForm Noncommercial 1.0.0 license.
+
+**[Download the latest build](https://github.com/Roxsmb/tailref/releases/latest)** · **[Read the documentation](https://github.com/Roxsmb/tailref#readme)**
+
+Questions or a walkthrough? **[Message me on ArtStation](https://www.artstation.com/emremeliknameli)**.
 
 ## Elsewhere
 
