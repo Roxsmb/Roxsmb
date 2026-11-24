@@ -9,11 +9,11 @@
 ## TailRef Studio
 
 A local-first workspace for artists: a reference board, a drawing canvas and a
-**Pose3D** viewport in one window. Windows 10/11 x64, v1.4.1 — **Electron**,
-**JavaScript**, **three.js**, **Canvas 2D**.
+**Pose3D** viewport in one window. **Windows, Linux and macOS**, v1.4.4 —
+**Electron**, **JavaScript**, **three.js**, **Canvas 2D**.
 
 <div align="center">
-  <a href="https://github.com/Roxsmb/tailref/releases/latest"><img src="https://img.shields.io/badge/Download-Windows%2010%20%7C%2011-2F6FB0?style=for-the-badge&logo=windows11&logoColor=white" alt="Download TailRef Studio for Windows 10 and 11" /></a>
+  <a href="https://github.com/Roxsmb/tailref/releases/latest"><img src="https://img.shields.io/badge/Download-Windows%20%7C%20Linux%20%7C%20macOS-2F6FB0?style=for-the-badge&logo=github&logoColor=white" alt="Download the latest TailRef Studio release for Windows, Linux and macOS" /></a>
   <a href="https://github.com/Roxsmb/tailref"><img src="https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="TailRef Studio source and documentation on GitHub" /></a>
 </div>
 
@@ -24,7 +24,7 @@ A local-first workspace for artists: a reference board, a drawing canvas and a
 - **Reference board** — an infinite canvas for collecting, arranging, annotating and colour-grading references.
 - **Drawing workspace** — layers, masks, `.abr` brushes and a non-destructive FX stack.
 - **Pose3D** — pose a mannequin or import your own FBX/GLTF/OBJ model, set the camera and lighting, then capture the shot straight to the board.
-- **Local-first** — portable `.exe` or installer, no account, no cloud, no telemetry. Free for noncommercial use under the PolyForm Noncommercial 1.0.0 license.
+- **Local-first** — portable builds for Windows, Linux and macOS; no account, no cloud, no telemetry. Free and open source under GPL-3.0-or-later.
 
 **[Download the latest build](https://github.com/Roxsmb/tailref/releases/latest)** · **[Read the documentation](https://github.com/Roxsmb/tailref#readme)**
 
